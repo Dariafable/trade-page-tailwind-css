@@ -17,7 +17,7 @@ const Hero = () => {
         <div className='w-full h-[90%] flex flex-col justify-center items-center text-white px-4 text-center'>
             <h1>Decentralized</h1>
             <h1 className='py-4'>
-                <span className='text-[#00d8ff]'>Traiding</span> Protocol
+                <span className='text-[#00d8ff]'>Trading</span> Protocol
             </h1>
             <p className='text-xl py-4'>
               Guaranteed liquidity trading for millions of users and top Ethereum
